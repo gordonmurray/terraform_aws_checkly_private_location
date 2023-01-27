@@ -8,7 +8,7 @@ Terraform is used to create a small EC2 instance to act as a Checkly Private loc
 
 Once up and running, you will have a Checkly Dashboard available at https:/aws-checkly-private-location.checkly-dashboards.com/ monitoring your private resources.
 
-![Checkly Dashboard](https://github.com/gordonmurray/terraform_aws_checkly_private_location/blob/main/files/pluralith-local-project.png?raw=true)
+![Checkly Dashboard](https://github.com/gordonmurray/terraform_aws_checkly_private_location/blob/main/files/checkly_dashboard.png?raw=true)
 
 To get up and running you will need:
 

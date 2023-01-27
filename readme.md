@@ -60,4 +60,4 @@ Project: terraform_aws_checkly_private_location
 ### Infrastructure diagram
 Diagram generated using Pluralith
 
-![alt text](https://github.com/gordonmurray/terraform_aws_checkly_private_location/blob/main/images/pluralith-local-project.png?raw=true)
+![alt text](https://github.com/gordonmurray/terraform_aws_checkly_private_location/blob/main/files/pluralith-local-project.png?raw=true)

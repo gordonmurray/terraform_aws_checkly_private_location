@@ -1,0 +1,8 @@
+# Your current IP address for SSH access
+my_ip_address = ""
+aws_region    = "eu-west-1"
+
+# Checkly
+checkly_api_key      = "cu_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+checkly_account_id   = ""
+private_location_key = "pl_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"

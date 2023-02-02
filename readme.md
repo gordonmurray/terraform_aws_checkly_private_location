@@ -4,6 +4,8 @@ This project is an example of using Checkly with a Private Location to check on 
 
 These resources would normally not be contactable from Checkly directly but with the help of a Private Location and a tool called Goss to serve as a local API, the resources can be monitored using Checkly.
 
+![Checkly Check Failing without a private location](https://github.com/gordonmurray/terraform_aws_checkly_private_location/blob/main/files/checkly_check_failing.png?raw=true)
+
 Terraform is used to create a small EC2 instance to act as a Checkly Private location within a VPC, with additional resources such as a web server, an RDS instance and a Redis cache to perform checks on. Terraform also creates the Checkly checks to monitor the resources that are created thanks to the Terraform Checkly provider.
 
 Once up and running, you will have a Checkly Dashboard available at https:/aws-checkly-private-location.checkly-dashboards.com/ monitoring your private resources.

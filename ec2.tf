@@ -17,7 +17,7 @@ data "template_file" "webserver_user_data" {
 }
 
 
-# Create an EC2 instance to use as a Checly location
+# Create an EC2 instance to use as a Checkly location
 resource "aws_instance" "checkly" {
   ami                    = "ami-0333305f9719618c7" # Ubuntu 22.04
   instance_type          = "t3.nano"
